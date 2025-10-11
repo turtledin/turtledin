@@ -1,10 +1,8 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03fcf8,100:0362fc&fontColor=ffffff&text=TurtledIn%20Profile&height=250&section=header"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03fcf8,100:0362fc&fontColor=ffffff&text=TurtledIn%20Profile&height=100&section=header"/>
 
-
+# 
 
 An aspiring coder and cyber security specialist  
 
@@ -15,10 +13,14 @@ An aspiring coder and cyber security specialist
 ![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-e37d10?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-3c1087?style=for-the-badge&logo=php&logoColor=white)
 
 ## Connect with me
 [![Discord](https://img.shields.io/badge/Discord-0A66C2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/943066871526223903)
 [![Email](https://img.shields.io/badge/Email-inturtled@gmail.com-3e6116?style=for-the-badge)](mailto:inturtled@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03fcf8,100:0362fc&fontColor=ffffff&text=&height=100&section=footer"/>
 
 </div>
 
