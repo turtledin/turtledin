@@ -6,7 +6,7 @@
 
 An aspiring coder and cyber security specialist  
 
-<img src="https://64.media.tumblr.com/17ea99e3f67170ccce48bcaa4f2853d2/a99ee2e357a0bd1d-b1/s400x600/5c07ec5f31e087e1ff3ecc93ffef3005ca5c0fa7.gif" height="500">
+![yawn gif](https://github.com/turtledin/turtledin/blob/main/yawn.gif?raw=true)
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
